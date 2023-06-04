@@ -1,5 +1,5 @@
 
-<section class="">
+<section class="navbar-section">
 
     
     <div class="motif"><h1>simplon côte d'ivoire & invest for jobs</h1></div>
